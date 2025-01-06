@@ -1,0 +1,7 @@
+emotions = ['angry', 'sad', 'happy']
+emotion_responses = ['Why are you angry?', 'What makes you sad?', 'What makes you happy?']
+opinions = ['coffee', 'food']
+opinion_responses = ['What is your favourite type of coffee?', 'What is your favourite type of food?']
+questions = ['How has your day been', 'What are your plans for today', 'Where do you see yourself in the future', 'If you had 1 million dollars, what would you spend it on', 'How would you survive on a deserted island with just one stick and 5 matches']
+agent_names = ['Yggsdril', 'Excalibur', 'Exodus', 'Stoic']
+quit_words = ['quit', 'goodbye', 'bye', 'q', 'exit']
